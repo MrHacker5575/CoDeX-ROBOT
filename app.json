@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "",
-        "value": "",
+        "value": "20310034",
         "required": true
       },
       "API_HASH": {
         "description": "",
-        "value": "",
+        "value": "e0d2c11f4ba291ce596868e73df87519",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "",
-        "value": "",
+        "value": "  mongodb+srv://yashsamrat32169:ylWiINR00JzSqwhP@cluster0.j44oov2.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "",
-        "value": "",
+        "value": "6123932615",
         "required": true
       },
       "STRING_SESSION": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "",
-        "value": "",
+        "value": "-1001985992318",
         "required": true
       }
     },
