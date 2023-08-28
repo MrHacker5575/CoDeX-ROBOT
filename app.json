@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "",
-        "value": "",
+        "value": "YUKI ROBOT",
         "required": true
       },
       "OWNER_ID": {
