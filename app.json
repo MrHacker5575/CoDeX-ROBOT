@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "",
-        "value": "  mongodb+srv://yashsamrat32169:ylWiINR00JzSqwhP@cluster0.j44oov2.mongodb.net/?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       },
       "MUSIC_BOT_NAME": {
